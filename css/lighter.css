@@ -1,0 +1,18 @@
+.rt_lighter{
+    color: #000 !important;
+    margin-top:10px !important;
+    padding: 10px !important;
+   
+}
+.rt_lighter .rtForm .rt_search_row, .rt_lighter .rtForm .rt_search_slider,
+.rt_lighter .searchForm .rt_search_row, .rt_lighter .searchForm .rt_search_slider {
+    background: #f8f8f8 !important;
+    color: #000 !important;
+}
+.rt_lighter .rt_search_mapwrapper, .rt_lighter.rt_searchlist, .rt_lighter.rt_shortcodelist,
+.rt_lighter .banner_salelist_inner, .rt_lighter.rt_viewdetails, .rt_lighter.rt_salelist {
+    background: #f8f8f8 !important;
+    color: #000 !important;
+    /*padding: 5px;*/
+    
+}

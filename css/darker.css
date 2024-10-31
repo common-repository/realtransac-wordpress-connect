@@ -1,0 +1,28 @@
+.rt_darker{
+    color: #000 !important;
+    background-color:#242424 !important;
+    margin-top:10px !important;
+    padding: 10px !important;
+  
+}
+.rt_darker .list li a,.rt_darker .sale_siderow,.rt_darker .sale_element,
+.rt_darker .pagination a,.rt_darker .previous a,.rt_darker .next a,.mortgage_result{
+    color: #888888 !important;
+}
+.rt_darker input[type=text],.rt_darker select,.rt_darker textarea{
+    background-color:#B9B9B9 !important;
+}
+.rt_darker h2,h3{
+    color:#fff !important;
+    }
+.rt_darker .rtForm .rt_search_row, .rt_darker .rtForm .rt_search_slider,
+.rt_darker .searchForm .rt_search_row, .rt_darker .searchForm .rt_search_slider, .rt_salelist .saleslist_container{
+    background: #2D2D2D !important;
+    color: #888888 !important;
+}
+.rt_darker .rt_search_mapwrapper, .rt_darker.rt_searchlist, .rt_darker.rt_shortcodelist,
+.rt_darker .banner_salelist_inner, .rt_darker.rt_viewdetails, .rt_darker.rt_salelist{
+    background: #2D2D2D !important;
+    color: #888888 !important;
+    /*padding: 5px;*/
+}

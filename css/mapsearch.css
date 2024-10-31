@@ -1,0 +1,119 @@
+.mapTabs{
+    font:12px arial;
+    margin: 10px 0 0px 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width:550px;
+    height:270px;
+}
+.ui-mtabs-panel{
+    overflow:hidden;
+    width:485px;
+}
+.tabs ul{
+    display:none;
+}
+.content{
+    clear:both;
+    text-align:center;
+}
+
+.prevDiv, .nextDiv{
+    overflow:hidden;
+    width:24px;
+}
+.prevDiv{
+    float:left;
+}
+.nextDiv{
+    float:right;
+}
+a.next-tabs{    
+    background: url(../images/next.png) no-repeat;
+    height:23px;
+    width:24px;
+    display:block;
+}
+
+a.prev-tabs{    
+    background: url(../images/previous.png) no-repeat;
+    height:23px;
+    width:24px;
+    display:block;
+}
+
+
+.IWAdHeader
+ {
+    float: left;
+    font: bold 10px Tahoma;
+    color: #afafaf;
+    width: 100%;
+}
+
+
+.IWAdMain
+ {
+    clear: both;
+    padding:5px;
+    overflow:hidden;
+}
+
+.IWAdLeft {
+    float: left;
+    width: 135px;    
+    overflow:hidden;
+    margin-right: 10px;
+
+}
+
+.IWAdText {
+    clear: both;
+    text-align:left;
+}
+
+.IWAdRight {
+    width: 300px;
+    float: left;
+    overflow:hidden;
+}
+
+.IWAdHead {
+    color: #999;
+    font-weight: bold;
+}
+/* Autocomplete: */
+.autocomplete-w1 {
+    background  :   url(../images/shadow.png) no-repeat bottom right;
+    position    :   absolute;
+    top         :   0px;
+    left        :   0px;
+    margin      :   8px 0 0 6px;
+    /* IE6 fix: */
+    _background :   none;
+    _margin     :   0;
+}
+.autocomplete {
+    border      :   1px solid #999;
+    background  :   #FFF;
+    cursor      :   default;
+    text-align  :   left;
+    max-height  :   350px;
+    overflow    :   auto;
+    margin      :   -6px 6px 6px -6px;
+    /* IE6 specific: */
+    _height     :   350px;
+    _margin     :   0;
+    _overflow-x :   hidden;
+}
+.autocomplete .selected {
+    background  :   #F0F0F0;
+}
+.autocomplete div {
+    padding     :   2px 5px;
+    white-space :   nowrap;
+}
+.autocomplete strong {
+    font-weight :   normal;
+    color       :   #3399FF;
+}

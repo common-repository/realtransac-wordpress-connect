@@ -1,0 +1,15 @@
+.rt_custom{
+    color: #000 !important;
+    overflow:hidden;
+}
+.rt_custom .rtForm .rt_search_row, .rt_custom .rtForm .rt_search_slider,
+.rt_custom .searchForm .rt_search_row, .rt_custom .searchForm .rt_search_slider {
+    background: #f8f8f8 !important;
+    color: #000 !important;
+}
+.rt_custom .rt_search_mapwrapper, .rt_custom.rt_searchlist, .rt_custom.rt_shortcodelist,
+.rt_custom .banner_salelist_inner, .rt_custom.rt_viewdetails, .rt_custom.rt_salelist {
+    background: #f8f8f8 !important;
+    color: #000 !important;
+    padding: 5px;
+}

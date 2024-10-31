@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realtransac wordpress connect\n"
+"POT-Creation-Date: 2013-04-26 15:45+0530\n"
+"PO-Revision-Date: 2013-04-26 15:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: AWS <support@realtransac.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\realtransacpartners\\wp-content"
+"\\plugins\\realtransac-wordpress-connect\n"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:368
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:104
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:78
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:521
+msgid "GENERIC_REQUIRED"
+msgstr "Este campo es obligatorio"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:606
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:243
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:623
+msgid "GENERIC_COUNTRY"
+msgstr "País"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:626
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:642
+msgid "GENERIC_LOCATION"
+msgstr "Ubicaci&#243;n"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:642
+msgid "ADVANCEDSEARCH_PERIMETER"
+msgstr "Per&#237;metro"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:674
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:641
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1017
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:268
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:322
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:657
+msgid "GENERIC_TYPE"
+msgstr "Tipo"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:693
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:640
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:284
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:321
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:676
+msgid "GENERIC_CATEGORY"
+msgstr "Categor&#237;a"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:726
+msgid "ADVANCEDSEARCH_ONLY_WITH_PICTURES"
+msgstr "S&#243;lo con foto"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:733
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:695
+msgid "GENERIC_PRICE"
+msgstr "Precio"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:767
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:863
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:954
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1041
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:701
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:823
+msgid "GENERIC_MIN"
+msgstr "M&#237;n"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:790
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:892
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:977
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1074
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:752
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:849
+msgid "GENERIC_MAX"
+msgstr "M&#225;x"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:843
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:804
+msgid "GENERIC_BEDROOMS"
+msgstr "Dormitorios"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:933
+msgid "GENERIC_BATHROOMS"
+msgstr "Cuartos de ba&#241;o"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1014
+msgid "GENERIC_SURFACE"
+msgstr "Area"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1147
+msgid "ADVANCEDSEARCH_SEARCH"
+msgstr "Buscar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1198
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:60
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:116
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/banner_list.php:52
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:48
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listfilter.php:40
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:62
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:45
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:41
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/productlist.php:56
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:352
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:383
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1862
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1896
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:53
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:88
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:955
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:48
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:95
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:45
+msgid "GENERIC_SERVER_CONNECTION_FAULT"
+msgstr "Mensaje: Error de conexión de servidor"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/advanced_search.php:1202
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:64
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:71
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:120
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:125
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:322
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:465
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:563
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:681
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:705
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:770
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/banner_list.php:56
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:52
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listfilter.php:44
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:66
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:49
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:45
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/productlist.php:60
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:125
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:356
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:387
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:704
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:790
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:849
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:863
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:927
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1071
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1151
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1261
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1351
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1437
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1543
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1647
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1663
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1745
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1761
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1774
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1787
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1801
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1815
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1832
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1866
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1900
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:2084
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:57
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:92
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:299
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:960
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:52
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:99
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:49
+msgid "GENERIC_SERVER_CONNECTION_ERROR"
+msgstr "Mensaje: Error de conexión de servidor"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:149
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1909
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:971
+msgid "SORT_PRICE_UP"
+msgstr "Precio &#8593;"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:150
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1910
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:972
+msgid "SORT_PRICE_DOWN"
+msgstr "Precio &#8595;"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:151
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1911
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:973
+msgid "SORT_DATE_UP"
+msgstr "Fecha &#8593;"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:152
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1912
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:974
+msgid "SORT_DATE_DOWN"
+msgstr "Fecha &#8595;"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:210
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:394
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:406
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1970
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:986
+msgid "GENERIC_TOTAL_RESULT"
+msgstr "Resultados Totales:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:210
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:394
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:406
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:986
+msgid "GENERIC_RESULT_OF"
+msgstr "Resultado de"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:291
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:436
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:543
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/banner_list.php:128
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/banner_list.php:213
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:145
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:211
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:449
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:2049
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:1192
+msgid "GENERIC_VIEW_DETAILS"
+msgstr "Ver detalles"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:555
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:673
+msgid "GENERIC_NO_RESULT"
+msgstr "No hay registros"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:642
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:323
+msgid "GENERIC_DESCRIPTION"
+msgstr "Description"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:643
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:324
+msgid "GENERIC_BUDGET"
+msgstr "Budget"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:650
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:333
+msgid "GENERIC_SALE"
+msgstr "Sale"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:652
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:335
+msgid "GENERIC_RENT"
+msgstr "Rent"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:735
+msgid "GENERIC_RESULT"
+msgstr "Resultados"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:739
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:107
+msgid "MORTGAGE_MORTGAGE_AMOUNT"
+msgstr "Importe de la hipoteca:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:745
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:121
+msgid "MORTGAGE_INTEREST_RATE"
+msgstr "Tasa de inter&#233;s(%):"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:751
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:134
+msgid "MORTGAGE_INTEREST_TERM"
+msgstr "Inter&#233;s de Largo Plazo:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/ajaxcall.php:757
+msgid "MORTGAGE_MONTHLY_PAYMENTS"
+msgstr "Los pagos mensuales"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/bannerpost-list.php:186
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/bannerpost-list.php:293
+msgid "BANNERPOST_NO_POST_AVAILABLE"
+msgstr "No hay mensajes disponibles"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/bannerpost-list.php:275
+msgid "GENERIC_READ_MORE"
+msgstr "Leer más"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/banner_list.php:248
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:293
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/productlist.php:108
+msgid "GENERIC_PROPERTY_NOT_MATCH"
+msgstr ""
+"No tenemos ninguna propiedad correspondiente a sus criterios de b&#195;&#186;"
+"squeda"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:96
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:145
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:699
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:90
+msgid "GENERIC_CAPTCHA_IS_EMPTY"
+msgstr "para refrescar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:97
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:146
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:91
+msgid "GENERIC_INVALID_CAPTCHA"
+msgstr "Captcha v&#225;lido"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:105
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:79
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:522
+msgid "GENERIC_VALID_EMAIL"
+msgstr "Por favor, introduzca una dirección válida de correo electrónico"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:106
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:80
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:523
+msgid "GENERIC_VALID_NUMBER"
+msgstr "Por favor, introduzca un número válido"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:137
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:524
+msgid "GENERIC_NAME"
+msgstr "Nombre "
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:152
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:549
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:153
+msgid "GENERIC_PHONE"
+msgstr "Tel&#233;fono"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:167
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:129
+msgid "GENERIC_CITY"
+msgstr "Ciudad "
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:181
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:180
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:615
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:145
+msgid "GENERIC_EMAIL"
+msgstr "Email "
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:195
+msgid "GENERIC_COMMENT"
+msgstr "Comentario"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:208
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:161
+msgid "GENERIC_CAPTCHA"
+msgstr "Captha"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/contactus.php:240
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:178
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:187
+msgid "GENERIC_SEND"
+msgstr "Enviar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listfilter.php:60
+msgid "GENERIC_SELECT_STATE"
+msgstr "Elija una región en la lista siguiente"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listfilter.php:64
+msgid "GENERIC_ALL"
+msgstr "Tous"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listfilter.php:75
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:302
+msgid "LISTING_FILTER_SEARCH"
+msgstr "Validar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:337
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:77
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:73
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:156
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:1028
+msgid "PRV_TEXT"
+msgstr "Anterior"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:338
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:78
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:74
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:157
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:1029
+msgid "NEXT_TEXT"
+msgstr "Próximo"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listing.php:349
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:115
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:99
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:49
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:184
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:1052
+msgid "GENERIC_LOADING"
+msgstr "Loading..."
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:170
+msgid "GENERIC_LISTING_AGENT_TITLE"
+msgstr "Lista de Courtiers"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:205
+msgid "GENERIC_CONTACT"
+msgstr "Contact"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingagent.php:205
+msgid "GENERIC_WEBSITE"
+msgstr "Website"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/listingpartners.php:154
+msgid "GENERIC_LISTING_PARTNER_TITLE"
+msgstr "Lista de Agencias asociados"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:81
+msgid "GENERIC_VALID_MIN"
+msgstr "Por favor, introduzca un valor menor que o igual a {0}"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:82
+msgid "GENERIC_VALID_MAX"
+msgstr "Por favor, introduzca un valor mayor que o igual a {0}"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:83
+msgid "GENERIC_VALID_RANGE"
+msgstr "Por favor, introduzca un valor entre 0,083 y 40."
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:140
+msgid "MORTGAGE_MONTHS"
+msgstr "meses"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:141
+msgid "MORTGAGE_YEARS"
+msgstr "a&#241;os"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/mortgage.php:154
+msgid "MORTGAGE_START_DATE"
+msgstr "Fecha de inicio:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:430
+msgid "GENERIC_SAVE"
+msgstr "Ahorrar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:568
+msgid "GENERIC_UPDATE_OPTIONS"
+msgstr "Opciones de actualización"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:679
+msgid "REALTRANSAC_SEARCH_DESCRIPTION"
+msgstr "Es un motor de búsqueda normal Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:680
+msgid "REALTRANSAC_PROPERTY_SEARCH"
+msgstr "Realtransac Buscador de propiedades"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:737
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:823
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:977
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1100
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1191
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1297
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1386
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1470
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1589
+msgid "GENERIC_TITLE"
+msgstr "Título"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:739
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:825
+msgid "GENERIC_PAGE_ID"
+msgstr "Página ID"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:743
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:828
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:990
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1300
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1389
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1473
+msgid "GENERIC_DISPLAY_FORMAT"
+msgstr "Formato de presentación:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:763
+msgid "REALTRANSAC_ADVANCED_SEARCH_DESCRIPTION"
+msgstr "Se trata de un avanzado motor de búsqueda Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:765
+msgid "REALTRANSAC_PROPERTY_ADVANCED_SEARCH"
+msgstr "Realtransac Propiedad Búsqueda avanzada"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:874
+msgid "REALTRANSAC_DETAILS_PROPERTY_LIST_DESCRIPTION"
+msgstr "Ponga una lista de propiedades de Realtransac en la barra lateral"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:875
+msgid "REALTRANSAC_DETAILS_PROPERTY_LIST"
+msgstr "Listado Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:877
+msgid "REALTRANSAC_LISTING"
+msgstr "listado"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:980
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1194
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1592
+msgid "REALTRANSAC_PRODUCT_SHOW"
+msgstr "¿Cuántos productos para mostrar?:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:983
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1197
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1595
+msgid "GENERIC_DETAIL_PAGE_ID"
+msgstr "Detalle de ID de la página:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:986
+msgid "REALTRANSAC_DISPLAY_QUANTITY"
+msgstr "Mostrar la cantidad:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:999
+msgid "REALTRANSAC_SLIDER_FORMAT"
+msgstr "Página de Resultados"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1008
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1607
+msgid "GENERIC_SHOW"
+msgstr "Mostrar:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1026
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1624
+msgid "REALTRANSAC_BUILT_DESCRIPTION"
+msgstr "Descripción de Construcción:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1046
+msgid "REALTRANSAC_GOOLE_MAP_DESCRIPTION"
+msgstr ""
+"Se trata de un mapa de Google para señalar una posición de búsqueda GEO"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1047
+msgid "REALTRANSAC_GOOGLE_MAP"
+msgstr "Realtransac Google Map"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1113
+msgid "REALTRANSAC_PROPERTY_LIST_DESCRIPTION"
+msgstr "Listas Realtransac propiedad"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1114
+msgid "REALTRANSAC_PROPERTY_LIST"
+msgstr "Lista de propiedades Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1201
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1616
+msgid "REALTRANSAC_TYPE"
+msgstr "Tipo:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1209
+msgid "GENERIC_OPTION"
+msgstr "Opciones:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1231
+msgid "REALTRANSAC_WORTH_FORM_DESCRIPTION"
+msgstr "¿Cuánto es mi valor de forma"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1233
+msgid "REALTRANSAC_WORTH_FORM"
+msgstr "Forma Worth Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1320
+msgid "REALTRANSAC_CONTACT_FORM_DESCRIPTION"
+msgstr "Formulario de contacto"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1321
+msgid "REALTRANSAC_CONTACT_FORM"
+msgstr "Realtransac Formulario de contacto"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1407
+msgid "REALTRANSAC_MORTGAGE_DESCRIPTION"
+msgstr "Realtransac Mortgage Calculator"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1408
+msgid "REALTRANSAC_MORTGAGE_CALCULATER"
+msgstr "Realtransac Mortgage Calculator"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1491
+msgid "REALTRANSAC_BANNER_DESCRIPTION"
+msgstr "Ponga una lista de propiedades de Realtransac en la barra lateral"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1492
+msgid "REALTRANSAC_BANNER_LIST"
+msgstr "Banner Lista Realtransac"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/realtransac.php:1599
+msgid "REALTRANSAC_PAGINATION_FORMAT"
+msgstr "Paginación Formato:"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/research.php:240
+msgid "GENERIC_FILTER"
+msgstr "Rechercher"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:896
+msgid "GENERIC_SEARCH"
+msgstr "Buscar"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/search.php:959
+msgid "GENERIC_ERROR"
+msgstr "Error"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:288
+msgid "VIEWDETAIL_PROPERTY_DETAILS"
+msgstr "Detalles de la propiedad"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:296
+msgid "VIEWDETAIL_MLS_ID_REFERENCE"
+msgstr "MLS ID Referencia"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:513
+msgid "VIEWDETAIL_ENQUIRY_FORM"
+msgstr "Solicitud de Información"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:532
+msgid "VIEWDETAIL_NAME_IS_EMPTY"
+msgstr "Complete su nombre"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:557
+msgid "VIEWDETAIL_PLEASE_ENTER_A_VALID_PHONE_NO"
+msgstr "Por favor, pone un n&#250;mero de tel&#233;fono v&#225;lido"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:574
+msgid "VIEWDETAIL_I_WOULD_LIKE_TO"
+msgstr "Me gustar&#237;a"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:585
+msgid "VIEWDETAIL_ASK_FOR_THE_CONTACT_OF_THE_SELLER"
+msgstr "Solicitar el contacto del vendedor"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:595
+msgid "VIEWDETAIL_ASK_FOR_A_VISIT"
+msgstr "Solicitar una visita"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:604
+msgid "VIEWDETAIL_BE_CONTACTED_ABOUT_SIMILAR_PROPERTIES"
+msgstr "Ser contactado sobre propiedades similares"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:623
+msgid "GENERIC_EMAIL_IS_EMPTY"
+msgstr "Complete el correo electrónico"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:638
+msgid "VIEWDETAIL_ABOUT_ME"
+msgstr "Sobre mí"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:642
+msgid "GENERIC_CHOOSE"
+msgstr "Elegir"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:643
+msgid "VIEWDETAIL_I_ALREADY_OWN_A_PROPERTY"
+msgstr "Ya soy propietario"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:644
+msgid "VIEWDETAIL_I_AM_RENTING"
+msgstr "Estoy alquilando"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:645
+msgid "VIEWDETAIL_I_HAVE_RECENTLY_SOLD"
+msgstr "Recientemente he vendido"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:646
+msgid "VIEWDETAIL_I_AM_FIRST_HOME_BUYER"
+msgstr "Comprar mi primera propiedad"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:647
+msgid "VIEWDETAIL_I_AM_AN_INVESTOR"
+msgstr "Yo soy un inversor"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:648
+msgid "VIEWDETAIL_I_AM_MONITORING_THE_MARKET"
+msgstr "Aprendo sobre el mercado"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:653
+msgid "VIEWDETAIL_PLEASE_CHOOSE_ONE_OPTION"
+msgstr "Por favor, elija una opci&#243;n"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:671
+msgid "VIEWDETAIL_WRITE_BELOW_YOUR_MESSAGE"
+msgstr "Escriba su mensaje"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:690
+msgid "VIEWDETAIL_ENTER_THE_ABOVE_CODE_HERE"
+msgstr "Escriba el siguiente código aquí"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:708
+msgid "VIEWDETAIL_INVALID_CAPTCHA"
+msgstr "Código inválido"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/viewdetail.php:723
+msgid "GENERIC_SEND_EMAIL"
+msgstr "Enviar correo"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:121
+msgid "WORTH_ADDRESS_OF_YOURP_ROPERTY"
+msgstr "Dirección de su propiedad"
+
+#: D:\xampp\htdocs\realtransacpartners\wp-content\plugins\realtransac-wordpress-connect/worth.php:137
+msgid "WORTH_NUM_OF_BED"
+msgstr "Num de cama"
+
+#~ msgid "GENERIC_INVALID_SUBSCRIPTION"
+#~ msgstr "Invalid subscription"
+
+#~ msgid "ADVANCEDSEARCH_DRAW_BOX"
+#~ msgstr "Dibujar pol&#237;gono"
+
+#~ msgid "ADVANCEDSEARCH_DRAW_CIRCLE"
+#~ msgstr "Dibujar C&#237;rculo"
+
+#~ msgid "FEATURED_PROPERTY_DESCRIPTION"
+#~ msgstr "Ponga una lista de propiedades de Realtransac en la barra lateral"
+
+#~ msgid "REALTRANSAC_FRATURED_PROPERTY"
+#~ msgstr "Realtransac Inmuebles destacados"
+
+#~ msgid "GENERIC_BANNER_LIST"
+#~ msgstr "Banner Lista"
+
+#~ msgid "CONTACTUS_ENTER_THE_ABOVE_CODE_HERE"
+#~ msgstr "Escriba el siguiente código aquí"
+
+#~ msgid "ADVANCEDSEARCH_LOCATION"
+#~ msgstr "Ubicación"
+
+#~ msgid "ADVANCEDSEARCH_TYPE"
+#~ msgstr "Tipo"
+
+#~ msgid "ADVANCEDSEARCH_CATEGORY"
+#~ msgstr "Categoría[pt]Categoría"
+
+#~ msgid "ADVANCEDSEARCH_PRICE"
+#~ msgstr "Precio"
+
+#~ msgid "ADVANCEDSEARCH_MIN"
+#~ msgstr "Mín"
+
+#~ msgid "ADVANCEDSEARCH_MAX"
+#~ msgstr "Máx"
+
+#~ msgid "ADVANCEDSEARCH_BEDROOMS"
+#~ msgstr "Dormitorios"
+
+#~ msgid "ADVANCEDSEARCH_BATHROOMS"
+#~ msgstr "Detalle de ID de la página:"
+
+#~ msgid "ADVANCEDSEARCH_SIZE"
+#~ msgstr "tamanho"
+
+#~ msgid "BANNERLIST_VIEW_DETAILS"
+#~ msgstr "Ver detalles"
+
+#~ msgid "BANNERLIST_WE_HAVE_NO_PROPERTY_MATCHING_YOUR_SEARCH_CRITERIA"
+#~ msgstr ""
+#~ "No tenemos ninguna propiedad corresponde a sus criterios de búsqueda"
+
+#~ msgid "CONTACTUS_NAME"
+#~ msgstr "Nombre "
+
+#~ msgid "CONTACTUS_PHONE"
+#~ msgstr "Teléfono "
+
+#~ msgid "CONTACTUS_CITY"
+#~ msgstr "Ciudad "
+
+#~ msgid "CONTACTUS_EMAIL"
+#~ msgstr "Email "
+
+#~ msgid "CONTACTUS_COMMENT"
+#~ msgstr "Comentario"
+
+#~ msgid "CONTACTUS_CAPTCHA"
+#~ msgstr "Captha"
+
+#~ msgid "CONTACTUS_SEND"
+#~ msgstr "enviar"
+
+#~ msgid "TOPLISTING_VIEW_DETAILS"
+#~ msgstr "Ver detalles"
+
+#~ msgid "TOPLISTING_WE_HAVE_NO_PROPERTY_MATCHING_YOUR_SEARCH_CRITERIA"
+#~ msgstr ""
+#~ "No tenemos ninguna propiedad corresponde a sus criterios de búsqueda"
+
+#~ msgid "MORTGAGE_SEND"
+#~ msgstr "enviar"
+
+#~ msgid "PROPERTYLIST_WE_HAVE_NO_PROPERTY_MATCHING_YOUR_SEARCH_CRITERIA"
+#~ msgstr ""
+#~ "No tenemos ninguna propiedad corresponde a sus criterios de búsqueda"
+
+#~ msgid "REALTRANSAC_SEARCH_ENGINE"
+#~ msgstr "Es un motor de búsqueda normal Realtransac"
+
+#~ msgid "REALTRANSAC_DETAIL_PAGE_ID"
+#~ msgstr "Detalle de ID de la página:"
+
+#~ msgid "SEARCH_TYPE"
+#~ msgstr "Tipo"
+
+#~ msgid "SEARCH_PRICE"
+#~ msgstr "Precio"
+
+#~ msgid "SEARCH_MIN"
+#~ msgstr "Min"
+
+#~ msgid "SEARCH_MAX"
+#~ msgstr "Máx"
+
+#~ msgid "SEARCH_SEARCH"
+#~ msgstr "Buscar"
+
+#~ msgid "VIEWDETAIL_NAME"
+#~ msgstr "Nombre "
+
+#~ msgid "VIEWDETAIL_EMAIL"
+#~ msgstr "Email"
+
+#~ msgid "VIEWDETAIL_PHONE"
+#~ msgstr "Teléfono "
+
+#~ msgid "VIEWDETAIL_CHOOSE"
+#~ msgstr "elegir"
+
+#~ msgid "VIEWDETAIL_SEND"
+#~ msgstr "enviar"
+
+#~ msgid "WORTH_CITY"
+#~ msgstr "Ciudad "
+
+#~ msgid "WORTH_EMAIL"
+#~ msgstr "Email"
+
+#~ msgid "WORTH_PHONE"
+#~ msgstr "Teléfono "
+
+#~ msgid "WORTH_CAPTCHA"
+#~ msgstr "Captha"
+
+#~ msgid "WORTH_INVALID_CAPTCHA"
+#~ msgstr "Captcha válido"
+
+#~ msgid "WORTH_SEND"
+#~ msgstr "enviar"
+
+#~ msgid "GENERIC_ADVANCE_SEARCH"
+#~ msgstr "Búsqueda avanzada"
+
+#~ msgid "GENERIC_GOOGLE_MAP"
+#~ msgstr "Google Map"
+
+#~ msgid "GENERIC_WORTH_FORM"
+#~ msgstr "¿Cuánto vale mi"
+
+#~ msgid "REALTRANSAC_RESULT_PAGES"
+#~ msgstr "Página de Resultados"
+
+#~ msgid "REALTRANSAC_MULTIlINGUAGE"
+#~ msgstr "plurilingüe"
+
+#~ msgid "GENERIC_TITLE:"
+#~ msgstr "título"
+
+#~ msgid "GENERIC_DISPLAY_FORMAT:"
+#~ msgstr "Formato de presentación:"
+
+#~ msgid "Detail Page ID:"
+#~ msgstr "Detalle de ID de la página:"
+
+#~ msgid "REALTRANSAC_SHOW"
+#~ msgstr "mostrar:"
+
+#~ msgid "Show:"
+#~ msgstr "Show"
